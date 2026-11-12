@@ -8,7 +8,7 @@
 ![Release](https://img.shields.io/github/v/release/julianstiventobarperafan-jpg/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/julianstiventobarperafan-jpg/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/julianstiventobarperafan-jpg/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/julianstiventobarperafan-jpg/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/julianstiventobarperafan-jpg/legion-del-mal?&cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
