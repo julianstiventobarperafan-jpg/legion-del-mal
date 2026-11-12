@@ -1,4 +1,4 @@
-![Estático](https://img.shields.io/badge/Legion--del--Mal-Ultima--version-red)
+![Estático](https://img.shields.io/badge/Legion--del--Mal-Ultima--versión-red)
 
 
 ![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
