@@ -11,7 +11,7 @@
 ![Licencia](https://img.shields.io/github/license/julianstiventobarperafan-jpg/legion-del-mal?&cacheSeconds=60)
 
 
-# 🦹‍♂️ La Legión del Mal - Desde Remoto y local 
+# 🦹‍♂️ La Legión del Mal
 
 
 
